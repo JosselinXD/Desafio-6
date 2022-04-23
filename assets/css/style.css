@@ -1,4 +1,4 @@
-#Img-back{
+#Img-back {
     width: 100%;
     height: 100vh;
     background-image: url("../img/pexel.jpg");
@@ -6,15 +6,22 @@
     background-size: cover;
     background-position: center;
 }
-.tex-edit{
+
+.tex-edit {
     margin: 20%;
     font-family: 'EB Garamond', serif;
 }
-.tex-edit-1{
+
+.tex-edit-1 {
     margin-left: 5px;
 }
-h2{
+
+h2 {
     font-family: 'EB Garamond', serif;
     text-decoration: underline;
     font-size: 5em;
+}
+
+p {
+    color: black;
 }
